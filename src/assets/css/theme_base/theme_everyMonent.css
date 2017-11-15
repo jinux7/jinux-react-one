@@ -1,0 +1,21 @@
+/* 表头字体颜色 */
+.theme_table_head_color{
+  color: rgb(49, 211, 218)!important;
+}
+
+/* 实时功率表格父级 */
+.theme_table_content_color{
+  color: white;
+} 
+/* 边框颜色 */
+.theme_border_color{
+    color: rgb(49, 211, 218);
+}
+/* 20px的 字体 */
+.theme_big_font_size{
+    font-size:20px!important;
+}
+/* 16px的 字体 */
+.theme_normal_font_size{
+    font-size:16px!important;
+}

@@ -1,0 +1,39 @@
+.module_home_containBox_title { /*所有单元框左上角的title*/
+    line-height: 65px;
+    margin-left: 5%;
+    font-size: 16px;
+    color: #009daa;
+}
+.module_home_containBox_text { /*所有单元框的普通文字*/
+    text-align: center;
+    line-height: 30px;
+    color: #009daa;
+    font-size: 12px;
+}
+.module_home_containBox_val {  /*所有单元框的普通数值value*/
+    color: #ffffff;
+    font-size: 12px;
+}
+.module_home_right1_label { /*右侧上部*/
+    color: #009daa;
+    font-weight: bold;
+    font-size: 18px;
+}
+.module_home_right1_button { /*右侧上部*/
+    width: 180px;
+    height: 42px;
+    border: 1px solid #666666;
+    background-color: #005C7E;
+    line-height: 42px;
+    color: #ffffff;
+    font-size: 18px;
+    margin: 12px auto 28px;
+}
+.module_home_right2_subTitle { /*右侧下部*/
+    color: #ffffff;
+    font-size: 20px;
+}
+.module_home_right2_subVal { /*右侧下部*/
+    font-size: 18px;
+    margin-left: 10px;
+}

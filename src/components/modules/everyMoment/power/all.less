@@ -1,0 +1,37 @@
+#wrap_power_all{
+    @baseColor:rgb(49, 211, 218);
+    height:855px;
+    overflow: auto;
+    min-width: 761px;
+    padding: 20px;
+   // background-image: url('../../../../assets/images/bg.jpg');
+    
+    .public_margin (@top,@left){
+        margin-left: @left;
+        margin-top: @top;
+    }
+    
+    .wrap_power_curve{
+        float: left;
+         padding:20px;
+        border: 1px solid @baseColor;
+        border-radius: 5px;
+        .public_margin(20px,20px); 
+       
+
+    }
+    .wrap_power_bar{
+         float: left;
+         padding:20px;
+         border-radius: 5px;
+         border: 1px solid @baseColor;
+         .public_margin(20px,80px); 
+        
+    }
+    .wrap_power_table{
+        float: left;
+        
+        .public_margin(50px,20px);
+    }
+}
+
